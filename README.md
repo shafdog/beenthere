@@ -1,4 +1,4 @@
 beenthere
 =========
 
-BeenThere(tm)
+BeenThere
